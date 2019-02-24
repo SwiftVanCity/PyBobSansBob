@@ -1,0 +1,16 @@
+{
+	"name": "PyBobSansBob",
+	"version": "0.0.1",
+	"factorio_version": "0.16",
+	"title": "Py-Bobs Sans Bobs",
+	"author": "swiftvancity",
+	"contact": "",
+	"homepage": "",
+	"description": "Bringing aspects of Bob's into Py's without the need for Bobs or dependencies.",
+	"dependencies": [
+		"base >= 0.13.0",
+		"?angelsrefining >= 0.9.14",
+		"?angelspetrochem >= 0.7.12",
+		"?pycoalprocessing >= 1.0.15"
+	]
+}
